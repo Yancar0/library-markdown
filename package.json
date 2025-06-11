@@ -1,0 +1,13 @@
+{
+  "name": "markdown-image-renderer",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.30"
+  }
+}
